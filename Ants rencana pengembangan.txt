@@ -6,3 +6,4 @@ RENCANA PENGEMBANGAN SKILL
  *vue.js
 - tingkatkan skill css
   *boostrap
+- mulai block chain
