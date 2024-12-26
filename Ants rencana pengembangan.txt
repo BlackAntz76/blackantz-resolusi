@@ -1,4 +1,8 @@
 RENCANA PENGEMBANGAN SKILL
 - kuasai php
+ * laravel
 - kuasai javascript
+ *react.js
+ *vue.js
 - tingkatkan skill css
+  *boostrap
