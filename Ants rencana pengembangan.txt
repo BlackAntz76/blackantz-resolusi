@@ -9,3 +9,5 @@ RENCANA PENGEMBANGAN SKILL
   *boostrap
 - kuasai python
 - mulai block chain
+ * hass
+ * cryptograph
