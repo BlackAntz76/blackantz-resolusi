@@ -3,7 +3,11 @@ RENCANA PENGEMBANGAN SKILL
  * laravel
  * angular
 - kuasai javascript
+ * jquery
  *react.js
 - tingkatkan skill css
   *boostrap
+- kuasai python
 - mulai block chain
+ * hass
+ * cryptograph
