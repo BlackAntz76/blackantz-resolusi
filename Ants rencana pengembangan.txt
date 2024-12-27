@@ -7,3 +7,4 @@ RENCANA PENGEMBANGAN SKILL
 - tingkatkan skill css
   *boostrap
 - mulai block chain
+pusing
